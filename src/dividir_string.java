@@ -1,4 +1,5 @@
 public class dividir_string {
+    // Metodo para dividir uma string!
     public static void main(String[] args) {
     String texto = "este e um exemplo de um texto";
     String texto2 = "isto nao e um exemplo de um texto";
